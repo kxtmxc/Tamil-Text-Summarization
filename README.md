@@ -32,11 +32,11 @@ The project demonstrates the strengths and limitations of each summarization app
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/extractive-abstractive-summarization.git
+   git clone https://github.com/kxtmxc/Tamil-Text-Summarization/
    ```
 2. Navigate to the project directory:
    ```bash
-   cd extractive-abstractive-summarization
+   cd Tamil-Text-Summarization
    ```
 3. Install the required libraries:
    ```bash
